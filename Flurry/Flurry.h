@@ -1161,6 +1161,20 @@ typedef enum {
 + (void) logPaymentTransaction:(SKPaymentTransaction*)transaction statusCallback:(void(^)(FlurryTransactionRecordStatus))statusCallback;
 #endif
 
+#if !TARGET_OS_WATCH
+/*!
+ *  @brief Enables implicit recording of Apple Store transactions.
+ *  @since 7.9.0
+ *
+ *  This method needs to be called before any transaction is finialized.
+ *
+ *
+ *  @param value YES to enable transaction logging, NO to stop transaction logging.
+ *
+ */
++ (void) setIAPReportingEnabled:(BOOL)value;
+#endif
+
 
 #if TARGET_OS_TV
 /*!

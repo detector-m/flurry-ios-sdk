@@ -13,6 +13,7 @@ var searchData=
   ['seteventloggingenabled_3a',['setEventLoggingEnabled:',['../interface_flurry.html#a75fc84e73c7e2d703311991508379407',1,'Flurry']]],
   ['setexpandedviewtotrack_3awithexpandbutton_3aandctabutton_3a',['setExpandedViewToTrack:withExpandButton:andCTAButton:',['../interface_flurry_ad_native.html#a7471e00bc418f4e6a724dde504cb67aa',1,'FlurryAdNative']]],
   ['setgender_3a',['setGender:',['../interface_flurry.html#a40c368f4ef3784467f9ba170c37c174f',1,'Flurry']]],
+  ['setiapreportingenabled_3a',['setIAPReportingEnabled:',['../interface_flurry.html#a1992325a1eef97d4d7592a5ac27630c3',1,'Flurry']]],
   ['setkeywordsfortargeting_3a',['setKeywordsForTargeting:',['../interface_flurry_ads.html#aa191fe99171a1e3dc47a7fba2148f3e2',1,'FlurryAds']]],
   ['setlatitude_3alongitude_3ahorizontalaccuracy_3averticalaccuracy_3a',['setLatitude:longitude:horizontalAccuracy:verticalAccuracy:',['../interface_flurry.html#a01ee271623f6df7af9cf3e97139136b3',1,'Flurry']]],
   ['setloglevel_3a',['setLogLevel:',['../interface_flurry.html#ab717465e705b23c80253dddae321f5bc',1,'Flurry']]],
